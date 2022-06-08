@@ -1,0 +1,58 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			18,
+			20
+		],
+		"version": [
+			1,
+			0,
+			0
+		],
+		"uuid": "b1457420-7403-4a8e-824e-6937b13cb81a"
+	},
+	"modules": [
+		{
+			"description": "pack.description",
+			"type": "data",
+			"uuid": "10dd9cad-5b09-43f0-9070-aa534d377ca3",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "javascript",
+			"uuid": "1864b112-1616-4c86-9245-95853d667187",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "09c3e69d-88af-40b5-afd4-98dc94b4ec03",
+			"version": [
+				0,
+				1,
+				0
+			]
+		},
+		{
+			"uuid": "d93c603c-cbef-4609-bfbf-056a39ca5270",
+			"version": [
+				0,
+				1,
+				0
+			]
+		}
+	]
+}
