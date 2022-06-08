@@ -3,7 +3,7 @@
   "header": {
     "name": "pack.name",
     "description": "pack.description",
-    "uuid": "da9ec54f-b6b6-2359-f748-687eb45b0586",
+    "uuid": "dd8f4be7-2191-4122-ac4f-7cc5ee9d1c33", 
     "version": [
       1,
       0,
@@ -18,17 +18,28 @@
   "modules": [
     {
       "type": "data",
-      "uuid": "b743328a-777b-d0ab-5746-23e383d6873f",
+      "uuid": "9a9652ad-fead-4d98-b1be-166786d51449",
       "version": [
         1,
         0,
         0
       ]
+    },
+    {
+      "type": "javascript",
+      "uuid": "94176484-3661-4e73-97e4-0f5b665a1e6d",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
     }
   ],
   "metadata": {
     "authors": [
       "Tom-on"
-    ]
+    ],
+    "url": "https://github.com/Tom-on64/mcbe-gametest-test"
   }
 }
