@@ -1,0 +1,2 @@
+tellraw @a[tag="§{§k§E§N§C§r§}staff"] {"rawtext":[{"text":"§6<§bServer§6> §cTHE SERVER ENTITY §lDIED§r§c! PLEASE CHECK IF THIS IS OK. THE ENTITY WILL AUTO-RESPAWN NOW."}]}
+execute @e[type=item, name=§{§k§E§N§C§r§}entityItem""]

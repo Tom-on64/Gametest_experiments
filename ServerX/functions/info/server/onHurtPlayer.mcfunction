@@ -1,0 +1,1 @@
+tellraw @a[tag="§{§k§E§N§C§r§}staff"] {"rawtext":[{"text":"§6<§bServer§6> §cThe server entity was hit by "},{"selector":"@p"},{"text":". Please check if everything is Ok."}]}
