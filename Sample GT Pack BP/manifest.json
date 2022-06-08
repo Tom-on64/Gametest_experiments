@@ -3,7 +3,7 @@
 	"header": {
 		"name": "pack.name",
 		"description": "pack.description",
-		"uuid": "18255b07-b032-dd63-7282-94cf9d401490",
+		"uuid": "bd7e6c86-2b31-417c-a575-120f426aee01",
 		"version": [
 			1,
 			0,
@@ -11,14 +11,14 @@
 		],
 		"min_engine_version": [
 			1,
-			17,
-			0
+			18,
+			20
 		]
 	},
 	"modules": [
 		{
 			"type": "data",
-			"uuid": "241a704b-66b0-61d7-8745-6a88785773d5",
+			"uuid": "6af8646a-7233-43da-973c-b6225d1e8b54",
 			"version": [
 				1,
 				0,
@@ -27,13 +27,13 @@
 		},
 		{
 			"type": "javascript",
-			"uuid": "7dfbb91a-cf30-3285-b7dd-440bb9968ad0",
+			"uuid": "9848bf47-f830-428d-b0cb-ff125dd167b4",
 			"version": [
 				1,
 				0,
 				0
 			],
-			"entry": "scripts/scripts/main.js"
+			"entry": "scripts/main.js"
 		}
 	],
 	"metadata": {
@@ -41,25 +41,5 @@
 			"Tom-on"
 		],
 		"url": "https://github.com/Tom-on64/mcbe-gametest-test"
-	},
-	"dependencies": [
-		{
-			"description": "Minecraft module",
-			"uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
-			"version": [
-				0,
-				1,
-				0
-			]
-		},
-		{
-			"description": "GameTest",
-			"uuid": "6f4b6893-1bb6-42fd-b458-7fa3d0c89616",
-			"version": [
-				0,
-				1,
-				0
-			]
-		}
-	]
+	}
 }

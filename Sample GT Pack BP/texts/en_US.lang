@@ -1,2 +1,8 @@
-pack.name=§aGametest §cExperiments
-pack.description=§bAddon by §aTom-on
+// Pack Info
+pack.name=§b§k||§r §aServer §lX §r§k§b||§r §6V1.0
+pack.description=§eA Pack For Servers/Realms \n§aMade By Tom-on \n\n\n§l§cHow To Use: \n§r §6Use '§e/function init§6' To Initiate The Pack \n§9Use '§e/function help' For More Help
+// Custom Join Message
+multiplayer.player.joined=§7[§a+§7] §e%s §bHas Joined
+multiplayer.player.left=§7[§c-§7] §e%s §bHas Left
+multiplayer.player.joined.realms=§7[§a+§7] §e%s §bHas Joined
+multiplayer.player.left.realms=§7[§c-§7] §e%s §bHas Left
