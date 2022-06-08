@@ -24,6 +24,17 @@
         0,
         0
       ]
+    },
+    {
+      "description": "Script that implements basic starter tests.",
+      "type": "javascript",
+      "uuid": "998eb522-2a26-4ae8-b0c4-22b1746d44a3",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/index.js"
     }
   ],
   "dependencies": [
