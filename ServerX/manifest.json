@@ -3,7 +3,7 @@
   "header": {
     "name": "pack.name",
     "description": "pack.description",
-    "uuid": "100db93a-0223-4737-bcd6-1797f38fe174", 
+    "uuid": "095fbfa2-43c9-4f0b-8f7e-404920a30a86",
     "version": [
       1,
       0,
@@ -18,7 +18,7 @@
   "modules": [
     {
       "type": "data",
-      "uuid": "b15cb304-331a-4e66-ae0f-c72a2cfc717c",
+      "uuid": "ac02c5d1-f29a-4bd7-b184-f26875786725",
       "version": [
         1,
         0,
@@ -26,8 +26,9 @@
       ]
     },
     {
+      "description": "Script that implements basic starter tests.",
       "type": "javascript",
-      "uuid": "b03d9ea1-3f62-4e44-93c6-f79dcdb62c89",
+      "uuid": "998eb522-2a26-4ae8-b0c4-22b1746d44a3",
       "version": [
         1,
         0,
@@ -36,26 +37,12 @@
       "entry": "scripts/index.js"
     }
   ],
-  "metadata": {
-    "authors": [
-      "Tom-on"
-    ],
-    "url": "https://github.com/Tom-on64/mcbe-gametest-test"
-  },
   "dependencies": [
     {
-      "uuid": "b54c0de1-806b-49a2-80f1-a146172473da",
+      "uuid": "ec6d24d6-e2b2-4632-ba72-5b763dbe8964",
       "version": [
-        1,
         0,
-        0
-      ]
-    },
-    {
-      "uuid": "19ed941e-d70e-4737-ba44-e9cf247b0e6a",
-      "version": [
         1,
-        0,
         0
       ]
     }
