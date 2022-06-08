@@ -1,2 +1,3 @@
-# mcbe-gametest-experimenting
- cool gametest stuff
+# Some dumb shit
+
+you can use this... i guess?
