@@ -3,7 +3,7 @@
   "header": {
     "name": "pack.name",
     "description": "pack.description",
-    "uuid": "095fbfa2-43c9-4f0b-8f7e-404920a30a86",
+    "uuid": "f1f03cf8-c6f3-4329-8c81-da3a5cd056f2",
     "version": [
       1,
       0,
@@ -18,7 +18,7 @@
   "modules": [
     {
       "type": "data",
-      "uuid": "ac02c5d1-f29a-4bd7-b184-f26875786725",
+      "uuid": "57285970-19f7-4155-8a85-e096d84457fe",
       "version": [
         1,
         0,
@@ -26,9 +26,8 @@
       ]
     },
     {
-      "description": "Script that implements basic starter tests.",
       "type": "javascript",
-      "uuid": "998eb522-2a26-4ae8-b0c4-22b1746d44a3",
+      "uuid": "406b9350-5d93-447d-bea4-9ff970deb56d",
       "version": [
         1,
         0,
@@ -39,10 +38,10 @@
   ],
   "dependencies": [
     {
-      "uuid": "ec6d24d6-e2b2-4632-ba72-5b763dbe8964",
+      "uuid": "406b9350-5d93-447d-bea4-9ff970deb56d",
       "version": [
-        0,
         1,
+        0,
         0
       ]
     }
