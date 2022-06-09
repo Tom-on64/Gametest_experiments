@@ -1,1 +1,0 @@
-tellraw @s[tag="§{§k§E§N§C§r§}staff"] {"rawtext":[{"text":"§2Help Page §l1 of 1 \n§r§o§7Use '§8 /function <function name>§7' To Run A Command. \n§r\n§2--- Function Names ---\n§6utility/self/vanish §0- §9Makes You Invisibile §7(§oexcept for leggins and boots of any kind§r§7) \n"}]}
