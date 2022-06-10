@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Scythe AntiCheat",
-        "description": "The best minecraft bedrock anticheat, designed for realms and servers.",
-        "uuid": "c68ba0c1-b9e4-46ad-b6c8-88bbd28f1fa5",
+        "name": "pack.name",
+        "description": "pack.description",
+        "uuid": "0a404eaf-60b1-478f-892c-82c7a13faa4c",
         "version": [
             2,
             5,
@@ -11,20 +11,20 @@
         ],
         "min_engine_version": [
             1,
-            16,
-            210
+            18,
+            100
         ]
     },
     "metadata": {
         "authors": [
-            "MrDiamond64"
+            "Tom-on"
         ],
-        "url": "https://github.com/MrDiamond64/Scythe-AntiCheat"
+        "url": "https://github.com/Tom-on64/ServerX"
     },
     "modules": [
         {
             "type": "data",
-            "uuid": "d059cc96-9272-4a33-90c8-f572bcc7fa56",
+            "uuid": "84abd6eb-abd5-4166-80d5-08f2cd1fe357",
             "version": [
                 1,
                 0,
@@ -32,21 +32,21 @@
             ]
         },
         {
-            "description": "Scythe AntiCheat Gametest Features",
+            "description": "GameTest",
             "language": "javascript",
             "type": "script",
-            "uuid": "ab31620b-f498-4355-9bea-498922f5940e",
+            "uuid": "c5fa7fdc-88fc-47d9-825a-21995d83acb4",
             "version": [
                 0,
                 0,
                 1
             ],
-            "entry": "scripts/main.js"
+            "entry": "scripts/index.js"
         }
     ],
     "dependencies": [
         {
-            "uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
+            "uuid": "acba532e-4555-4f9a-ad22-b45d7aba9be2",
             "version": [
                 0,
                 1,
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "uuid": "6f4b6893-1bb6-42fd-b458-7fa3d0c89616",
+            "uuid": "e1a17150-0634-4c52-9156-6e60cab3a8e6",
             "version": [
                 0,
                 1,
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "uuid": "2BD50A27-AB5F-4F40-A596-3641627C635E",
+            "uuid": "1e72e12e-0e69-444a-ad98-5c1f03625590",
             "version": [
                 0,
                 1,
