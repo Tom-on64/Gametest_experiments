@@ -1,1 +1,0 @@
-clear @a[tag=!"§k§b§§§§G§§ÿ§«§'§ß§ §rrank.staff"]
